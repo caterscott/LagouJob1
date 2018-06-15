@@ -1,0 +1,4 @@
+openpyxl==2.4.1
+requests==2.9.1
+snownlp==0.12.3
+beautifulsoup4==4.6.0

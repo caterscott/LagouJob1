@@ -1,0 +1,9 @@
+.idea
+entity/__pycache__/
+spider/__pycache__/
+spider/info.log
+util/__pycache__/
+logs
+*.pyc
+config/__pycache__/
+spider/data
