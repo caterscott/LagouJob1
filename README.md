@@ -14,9 +14,9 @@ python3 -m pip install -r requirements.txt
 
 ### 3. 使用方法
 运行Spider下py文件，信息存储于Excel中
-1. 运行 [m_lagou_spider.py](spider/m_lagou_spider.py) 来获取工作数据并生成Excel文件
-2. 运行lagou_company_spider.py，获取公司详细信息
-3. 运行jobdetail_spider.py 获取职位详细信息
+1. 运行 m_lagou_spider.py文件，来获取工作数据并生成Excel文件
+2. 运行lagou_company_spider.py文件，获取公司详细信息
+3. 运行jobdetail_spider.py文件，获取职位详细信息
 
 ### 4. 成功原因
 1. 手机的拉钩网站进行搜索爬虫（'https://m.lagou.com/search.json?city=……）
